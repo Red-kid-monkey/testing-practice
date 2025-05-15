@@ -1,4 +1,5 @@
-JavaScript Testing Practice
+# JavaScript Testing Practice
+
 A collection of JavaScript utility functions with comprehensive Jest tests.
 Functions Included
 
